@@ -31,6 +31,7 @@ cd house_prices_prediction_advanced_regression
 pip install -r requirements.txt
 jupyter notebook notebooks/
 
+---
 Made by Mahmoud Shaker  
 Aspiring Fachinformatiker für Anwendungsentwicklung  
 Self-taught Machine Learning & AI
