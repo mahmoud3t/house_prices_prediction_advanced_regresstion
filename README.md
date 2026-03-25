@@ -25,9 +25,12 @@ I developed a machine learning model to predict the final sale price of houses i
 - R² Score: 0.8852
 
 ## How to Run
-```bash
+bash
 git clone https://github.com/mahmoud3t/house_prices_prediction_advanced_regression.git
 cd house_prices_prediction_advanced_regression
 pip install -r requirements.txt
 jupyter notebook notebooks/
 
+####
+Made by Mahmoud Shaker  
+Self-taught Machine Learning & AI  
