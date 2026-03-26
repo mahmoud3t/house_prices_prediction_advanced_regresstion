@@ -54,7 +54,7 @@ The goal of this project is to predict the final sale price of residential homes
 git clone https://github.com/mahmoud3t/house_prices_prediction_advanced_regression.git
 cd house_prices_prediction_advanced_regression
 pip install -r requirements.txt
-jupyter notebook notebooks/
+jupyter notebook notebook/
 
 ## --
 Made by Mahmoud Shaker  
