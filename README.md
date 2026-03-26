@@ -1,7 +1,5 @@
 # House Prices Prediction - Advanced Regression
 
-**Predicting residential house sale prices in Ames, Iowa** using Machine Learning, Feature Engineering and Ensemble Models (Kaggle Competition).
-
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Used-orange)
@@ -50,7 +48,6 @@ The goal of this project is to predict the final sale price of residential homes
    - RMSE: 0.1246
    - **RMSLE**: 0.00888
    - R² Score: 0.8852
-   - **Kaggle Public Score**: [ضع Score الـ Leaderboard هنا]
 
 ##  How to Run the Project
 ```bash
